@@ -21,9 +21,11 @@ A real-time chat application built using Python, Socket Programming, Threading, 
 Client A
 
 ↓
+
 Server
 
 ↓
+
 Client B
 
 ### Message Flow
@@ -31,9 +33,11 @@ Client B
 Sender Client
 
 ↓
+
 Server
 
 ↓
+
 Selected Receiver(s)
 
 The server acts as a mediator between clients, managing user connections, message routing, and user list updates.
